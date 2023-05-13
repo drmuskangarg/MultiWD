@@ -8,4 +8,4 @@ The concept of wellness, as proposed by Halbert L. Dunn, recognizes the importan
 **Output**: 6 binary labels for SpA, PA, IA, SA, VA, EA <br/>
   
 ## Source Code
-We provide our code for BERT baseline model.
+We provide our source code for BERT baseline model.
