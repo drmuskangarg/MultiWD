@@ -5,4 +5,4 @@ The concept of wellness, as proposed by Halbert L. Dunn, recognizes the importan
 
 ## Dataset schema
 **Input**: Text <String> <br/>
-**Output**: 6 binary labels for SpA, PA, IA, SA, VA, EA <br/.
+**Output**: 6 binary labels for SpA, PA, IA, SA, VA, EA 
